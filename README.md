@@ -1,20 +1,9 @@
-# wechat-For-Mac-versions
-收集 Mac 微信版本并保存
+# WeChat For Mac Historical Versions
+Collect WeChat for Mac historical versions
 
-## 目录结构
-```shell
-├── README.md # 自述文件
-├── WeChatSetup # 微信安装包临时目录
-│   └── temp # 临时目录
-└── scripts   # 脚本目录
-    ├── destVersionRelease.sh # 获取安装包及取得版本号与 hash 值的脚本
-    └── notify.sh # 新release 时调用通知的脚本
-```
+## Description
+The project uses Github Action to automatically download the latest version of WeChat installation package to calculate the Hash value and push it to the repository.
 
-## 说明
-项目使用 Github Action 自动下载微信最新版本安装包计算 Hash 值并推送至仓库。
+Update logs for each version can be found at [changelog](https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_faq_list&head=true)
 
-
-各版本更新日志可参见 [changelog](https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_faq_list&head=true)
-
-*如有问题/侵权，请直接提交 issue 告知。*
+*If there is any problem/infringement, please submit an issue directly to inform us. *
