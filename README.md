@@ -6,4 +6,4 @@ The project uses Github Action to automatically download the latest version of W
 
 Update logs for each version can be found at [changelog](https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_faq_list&head=true)
 
-*If there is any problem/infringement, please submit an issue directly to inform us. *
+**If there is any problem/infringement, please submit an issue directly to inform us.**
